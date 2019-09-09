@@ -1,0 +1,9 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 40px;
+    width: 400px;
+}   
+
+background: yellow;
